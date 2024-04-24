@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663705621826",
+    "project_id": "courtz-aad7d",
+    "storage_bucket": "courtz-aad7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663705621826:android:5644e567863492d80ba4db",
+        "android_client_info": {
+          "package_name": "com.mycompany.courtz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1e8F_anjCQALp96UuTyDy9a4HgWkAJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
